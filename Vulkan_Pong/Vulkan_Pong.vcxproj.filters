@@ -20,9 +20,6 @@
     <ClCompile Include="VulkanApp.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="VikingRoom.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="Vertex.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -61,9 +58,6 @@
     <ClInclude Include="VulkanApp.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="VikingRoom.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="Vertex.h">
       <Filter>Header Files</Filter>
     </ClInclude>
@@ -97,12 +91,12 @@
     <ClInclude Include="UtilRand.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="resource.h">
+    <ClInclude Include="resource1.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ResourceCompile Include="Vulkan_Pong.rc" />
+    <ResourceCompile Include="Vulkan_Pong1.rc" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="icon1.ico" />
